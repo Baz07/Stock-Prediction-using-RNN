@@ -17,13 +17,12 @@ PART 3:
 - Run Predcition Model
 - Prints Loss on Test Data at every epoch
 - Plot of True vs Predicted Values
-- Tested (both train_RNN.py and test_RNN.py are running from Command Line)
 
 '''
 
 if __name__ == "__main__":
     ## Load Model
-    Model = load_model("models/20842555_RNN_model.h5")
+    Model = load_model("models/RNN_model.h5")
 
     ## Read Data File
     Testing_data = pd.read_csv("data/test_data_RNN.csv")
