@@ -19,4 +19,4 @@
 
 #### Results:
 
-Minimum Testing MSE: 8.
+Minimum Testing MSE: 8.87
