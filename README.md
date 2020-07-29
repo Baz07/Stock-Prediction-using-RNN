@@ -19,5 +19,6 @@
 
 #### Results:
 
-Minimum Testing MSE: 8.87
+- Minimum Testing MSE: 8.87
+- Final Plot of True vs Predicted Opening Price is available inside "plot" directory
 
