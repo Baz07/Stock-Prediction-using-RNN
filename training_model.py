@@ -21,7 +21,7 @@ Part 1: Creat Dataset to be used in RNN
 
 '''
 ## Read Dataset
-Stock_data = pd.read_csv("data/q2_dataset.csv")
+Stock_data = pd.read_csv("data/stock_dataset.csv")
 print(Stock_data)
 
 ## Convert String to Date time format
